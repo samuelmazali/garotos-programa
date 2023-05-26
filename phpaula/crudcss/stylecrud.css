@@ -1,0 +1,66 @@
+/* Estilos para o cabeçalho */
+.main_menu {
+    background-color: #f8f9fa;
+  }
+  
+  .main_menu .navbar-brand img {
+    width: 116px;
+    height: 23px;
+  }
+  
+  .main_menu .navbar-nav .nav-item .nav-link {
+    color: #212529;
+    font-weight: 500;
+  }
+  
+  .main_menu .navbar-nav .nav-item .nav-link:hover {
+    color: #007bff;
+  }
+  
+  /* Estilos para o título */
+  .title {
+    text-align: center;
+  }
+  
+  /* Estilos para os campos de formulário */
+  .form-label {
+    font-weight: bold;
+  }
+  
+  /* Estilos para o botão de cadastro */
+  .btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+  }
+  
+  /* Estilos para a tabela de dados */
+  .table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+  }
+  
+  .table th,
+  .table td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #dee2e6;
+  }
+  
+  .table th {
+    background-color: #f8f9fa;
+  }
+  
+  /* Estilos para os botões de editar e excluir */
+  .btn-editar,
+  .btn-excluir {
+    background-color: transparent;
+    border: none;
+  }
+  
+  .btn-editar img,
+  .btn-excluir img {
+    width: 40px;
+    height: 40px;
+  }
+  
